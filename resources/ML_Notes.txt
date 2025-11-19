@@ -1,2 +1,15 @@
 Machine learning:
+=================== 
+  Machine learning is a technique where computers learn patterns from data without 
+  being explicitly programmed.
+
+Types of ML: 
+============
+       There are 3 Main Types
+    1.Supervised learning
+          Here Model learn from labeled Data, Model learns the realtionship between input and out put
+    2.Unsupervised learning
+          it finds hidden pattern in unlabeled data
+    3.Reinforcement learning   
+          Model learns by reward/punishment
   
