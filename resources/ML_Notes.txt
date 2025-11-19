@@ -7,9 +7,25 @@ Types of ML:
 ============
        There are 3 Main Types
     1.Supervised learning
-          Here Model learn from labeled Data, Model learns the realtionship between input and out put
+          Here Model learn from labeled Data, Model learns the realtionship between input and output
+          and there are 2 major types 
+          1.Regression Model (predicts the numbers) 
+          2.Classification  Model (predicts the category)
     2.Unsupervised learning
           it finds hidden pattern in unlabeled data
     3.Reinforcement learning   
           Model learns by reward/punishment
+
+What is a Machine leaning Model
+===============================
+         A model is a mathematical function that learns relationship in data
   
+
+
+Supervised learning:
+====================
+   Linear Regression:
+   -------------------
+     Linear Regression predicts a continuous value, it tries to draw a straight line that
+     best fits the data
+        
