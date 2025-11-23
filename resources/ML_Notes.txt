@@ -20,12 +20,12 @@ What is a Machine leaning Model
 ===============================
          A model is a mathematical function that learns relationship in data
   
-
-
 Supervised learning:
 ====================
    Linear Regression:
    -------------------
      Linear Regression predicts a continuous value, it tries to draw a straight line that
      best fits the data
+
+     training ser containes features and targets
         
