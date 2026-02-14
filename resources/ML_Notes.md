@@ -3,6 +3,8 @@ Machine learning:
   Machine learning is a technique where computers learn patterns from data without 
   being explicitly programmed.
 
+  Machine learning is the subset of artificial intelligence (AI) focused on algorithms that can “learn” the patterns of training data and, subsequently, make accurate inferences about new data. This pattern recognition ability enables machine learning models to make decisions or predictions without explicit, hard-coded instructions.
+
 Types of ML: 
 ============
        There are 3 Main Types
@@ -27,5 +29,5 @@ Supervised learning:
      Linear Regression predicts a continuous value, it tries to draw a straight line that
      best fits the data
 
-     training ser containes features and targets
+     training set containes features and targets
         
